@@ -9,13 +9,13 @@ Changes to any of our brand design is not permitted, and usage for any other com
 ## Brand Colours
 
 ```
-NCG Ribbon Purple | `#4200FF` `Opacity: 75%`
-NCG Ribbon Blue | `#0094FF` `Opacity: 100%`
-NCG Background Blue-Black | `#0D1725` `Opacity: 100%`
+NCG Ribbon Purple | #4200FF Opacity: 75%
+NCG Ribbon Blue | #0094FF Opacity: 100%
+NCG Background Blue-Black | #0D1725 Opacity: 100%
 
-NCG Tech Ribbon Red | `#FF003D` `Opacity: 100%`
-NCG Tech Ribbon Orange | `#FF7A00` `Opacity: 75%`
-NCG Tech Background Red-Black | `#2F0808` `Opacity: 100%`
+NCG Tech Ribbon Red | #FF003D Opacity: 100%
+NCG Tech Ribbon Orange | #FF7A00 Opacity: 75%
+NCG Tech Background Red-Black | #2F0808 Opacity: 100%
 ```
 
 
